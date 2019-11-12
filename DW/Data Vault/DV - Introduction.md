@@ -53,7 +53,7 @@ A Hub is a list of unique business key. It contains:
 - Source for the record( REC_SRC)
   - data source
 
-![image-20191106142544118](/Users/ericyang/Library/Application Support/typora-user-images/image-20191106142544118.png)
+![image-20191106142544118](/Users/ericyang/GoogleDrive/L&D/L&D_Repo/myLearning (1)/DW/Modelling/Data Vault/image-20191106142544118.png)
 
 > Location_Name is the BK, and it must be unique
 
