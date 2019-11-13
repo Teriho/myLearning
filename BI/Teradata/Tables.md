@@ -1,0 +1,2 @@
+### Teradata Table Types
+
